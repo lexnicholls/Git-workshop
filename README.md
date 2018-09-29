@@ -1,2 +1,2 @@
 # Git-workshop
-README file about Git repository and it's repositories.
+README file about this Git repository and it's branches.
